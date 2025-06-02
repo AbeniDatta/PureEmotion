@@ -9,4 +9,4 @@ To test robustness, I selected a background with uneven lighting and wore my gla
 
 
 
-<img width="591" alt="Screenshot 2025-06-02 at 2 15 13 PM" src="https://github.com/user-attachments/assets/539afdc0-d00e-42e2-bacb-a0f67dbd4c9e" />
+<img width="400" alt="Screenshot 2025-06-02 at 2 15 13 PM" src="https://github.com/user-attachments/assets/539afdc0-d00e-42e2-bacb-a0f67dbd4c9e" />
