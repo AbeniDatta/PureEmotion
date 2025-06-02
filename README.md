@@ -6,7 +6,7 @@ A Real-Time Expression Analysis System
 2. Fine-tuned ResNet-18 on FER-2013 by unfreezing all four residual layers plus the fully-connected head, thus improving accuracy by ~30 % over an initial FC-only approach.
 3. Addressed lighting inconsistencies and occlusions using OpenCV by applying histogram equalization and adaptive thresholding, ensuring ~10% reduction in classification errors. (remove these, then run and check this number on another notebook).
 
-##Demo Video:
+## Demo Video:
 
 
 
