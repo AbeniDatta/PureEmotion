@@ -8,4 +8,5 @@
 To test robustness, I selected a background with uneven lighting and wore my glasses to introduce occlusion challenges. The file is uploaded under the name "Demo Video".
 
 
-![Uploading Screenshot 2025-06-02 at 2.15.13 PM.png…]()
+
+<img width="591" alt="Screenshot 2025-06-02 at 2 15 13 PM" src="https://github.com/user-attachments/assets/539afdc0-d00e-42e2-bacb-a0f67dbd4c9e" />
