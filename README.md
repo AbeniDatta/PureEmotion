@@ -7,6 +7,7 @@
 ## Demo Video:
 To test robustness, I selected a background with uneven lighting and wore my glasses to introduce occlusion challenges. The file is uploaded under the name "Demo Video.mp4".
 
+P.S: I have to say it felt very weird recording myself randomly making these faces/expressions 😅
 
 
 <img width="400" alt="Screenshot 2025-06-02 at 2 15 13 PM" src="https://github.com/user-attachments/assets/539afdc0-d00e-42e2-bacb-a0f67dbd4c9e" />
