@@ -5,7 +5,7 @@
 3. Addressed lighting inconsistencies and occlusions using OpenCV by applying histogram equalization and adaptive thresholding, ensuring ~10% reduction in classification errors. (remove these, then run and check this number on another notebook).
 
 ## Demo Video:
-To test robustness, I selected a background with uneven lighting and wore my glasses to introduce occlusion challenges. The file is uploaded under the name "Demo Video".
+To test robustness, I selected a background with uneven lighting and wore my glasses to introduce occlusion challenges. The file is uploaded under the name "Demo Video.mp4".
 
 
 
